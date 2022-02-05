@@ -6,11 +6,16 @@
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
     "@mui/material": "latest",
+    "@tensorflow/tfjs-core": "latest",
+    "@tensorflow/tfjs-backend-webgl": "latest",
+    "@tensorflow/tfjs-converter": "latest",
+    "@tensorflow-models/face-landmarks-detection": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",
+    "react-webcam": "latest",
     "typescript": "latest"
   },
   "scripts": {
