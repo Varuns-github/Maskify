@@ -1,4 +1,4 @@
-# React Skeleton
+# Maskify
 
 Install it and run:
 
@@ -6,3 +6,5 @@ Install it and run:
 npm install
 npm start
 ```
+
+App doesnt ask for camera permission.
